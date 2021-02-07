@@ -22,6 +22,14 @@ out/
 # idea files
 .idea/
 build/
+# androidTest files
+androidTest/
+# test files
+test/
+# pro file
+*.pro
+# properties file
+*.properties
 
 # Local configuration file (sdk path, etc)
 local.properties
